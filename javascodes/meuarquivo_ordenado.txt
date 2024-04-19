@@ -1,0 +1,3 @@
+Java é muito legal.
+Olá, mundo!
+isso é uma adição!
